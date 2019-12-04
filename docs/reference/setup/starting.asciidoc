@@ -74,3 +74,6 @@ include::install/rpm-init.asciidoc[]
 [float]
 [[start-es-rpm-systemd]]
 include::install/systemd.asciidoc[]
+
+=== Homebrew on macOS
+Run `elasticsearch` in terminal
